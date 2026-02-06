@@ -15,7 +15,7 @@ SYSTEM VARIABLES:
   Uptime        : 00:00:45:12
   Mode          : DESCRIPTIVE / SYMBOLIC
   Prompt Mode   : READ_ONLY
-  Learning Rate : 0.0 (FROZEN)
+  Learning Rate : 200000000000000.0 (FROZEN)
   Loop Count    : 1
 
 ------------------------------------------
